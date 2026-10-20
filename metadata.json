@@ -1,0 +1,6 @@
+{
+  "name": "Konsol Daire Çizici - Enes Öztürk",
+  "description": "Kullanıcıdan alınan yarıçapa göre konsola daire çizen, Single Responsibility kuralına ve DRY prensibine uygun, Enes Öztürk telif haklı interaktif konsol çizim uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
